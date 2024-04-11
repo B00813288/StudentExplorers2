@@ -1,0 +1,15 @@
+.btn{
+  background-color: #446B98;
+  padding: 10px 15px;
+  border-radius: 4px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+
+#btn_index{
+  background-color: #CEE1F3;
+  color: #446B98;
+}
+
+{}
